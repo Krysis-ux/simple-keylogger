@@ -1,4 +1,4 @@
-Keylogger
+Keylogger:
 very simple keylogger
 
 After running the script this keylogger sends the users keys to discord. it uses requests to send the keylogs and pynput to listen and log the keys
